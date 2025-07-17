@@ -88,6 +88,10 @@ map voidraptor
 	votable
 endmap
 
+map prisonstation
+	votable
+endmap
+
 # Debug-only maps.
 
 map gateway_test
